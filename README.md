@@ -9,8 +9,11 @@ Database-MySQL
 # Objective
 
 Set up a Pizza Sales database with provides sales data.
+
 Data cleaning: identify and remove any records with missing or null values 
+
 EDA(Exploatry data analysis): perform basic exploatry data analysis to understand dataset
+
 Business Analysis : use mysql to answer specific business question and drive insights from sales data.
 
 # Conclusion
