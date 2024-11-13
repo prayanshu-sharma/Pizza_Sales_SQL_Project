@@ -18,7 +18,7 @@ Business Analysis : use mysql to answer specific business question and drive ins
 
 # Conclusion
 
-SQL project to analyze online pizza sales data.you can examine dataset with sql and help pizza store to understand its business growth by answering simple question.
+SQL project to analyze online pizza sales data.you can examine dataset with sql and help pizza store to understand its business growth by answering simple question.By leveraging these insights, a pizzeria can improve customer satisfaction and increase its profitability.
 
 
 
